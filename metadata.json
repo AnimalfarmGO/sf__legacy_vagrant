@@ -1,0 +1,9 @@
+{
+    "name": "joyce/new-box",
+    "versions": [{
+        "version": "1.0.0",
+        "providers": [{
+            "url": "f3a07af0-d168-45d3-9060-ba7d070f4f30"
+        }]
+    }]
+}
