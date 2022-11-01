@@ -1,5 +1,5 @@
 Vagrant.configure("2") do |config|
-    config.vm.box = "new-box"
+    config.vm.box = "joyce/new-box"
     config.vm.box_version = "1.0.0"
     config.vm.hostname = "database"
     config.vm.box_url = "file:///home/joyce/f3a07af0-d168-45d3-9060-ba7d070f4f30"
